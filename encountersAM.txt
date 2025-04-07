@@ -1,0 +1,10 @@
+Battle,Marbella,5,320
+Skirmish,Calais,2,140
+Blockade,Lorient,4,160
+Battle,Valencia,8,210
+Battle,Cannes,6,110
+Skirmish,Ibiza,7,60
+Blockade,Toulon,5,145
+Battle,Santander,3,115
+Skirmish,Malaga,6,220
+Battle,Seville,2,275
